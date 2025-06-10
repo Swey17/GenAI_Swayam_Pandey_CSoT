@@ -1,3 +1,4 @@
+#this is a simple bot loop that greets the user and ends the chat when 'exit' or 'quit' is typed
 import groq
 
 from dotenv import load_dotenv
